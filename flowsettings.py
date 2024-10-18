@@ -197,7 +197,7 @@ KH_LLMS["gemini"] = {
     "spec": {
         "__type__": "kotaemon.llms.chats.LCGeminiChat",
         "model_name": "gemini-1.5-pro",
-        "api_key": "your-key",
+        "api_key": "AIzaSyBYwAHFdQG0RcDI95-1XQ0JyrUtwtXEUxY",
     },
     "default": False,
 }
